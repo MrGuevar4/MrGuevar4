@@ -1,109 +1,231 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=110&section=header&text=Farhang%20Fatih&fontColor=FF0000&fontSize=48&fontAlignY=52&desc=Cybersecurity%20Researcher%20%E2%80%A2%20Ethical%20Hacker%20%E2%80%A2%20Secure%20Software%20Architect&descColor=BBBBBB&descSize=14&descAlignY=76&animation=fadeIn" width="100%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="http://about.mrguevara.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-about.mrguevara.workers.dev-FF0000?style=for-the-badge&labelColor=1A1A1A&logo=firefoxbrowser&logoColor=white"/></a>&nbsp;
-  <a href="https://linkedin.com/in/mrguevara"><img src="https://img.shields.io/badge/LinkedIn-mrguevara-FF0000?style=for-the-badge&labelColor=1A1A1A&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="mailto:farhangfatih211@gmail.com"><img src="https://img.shields.io/badge/Email-contact%20me-FF0000?style=for-the-badge&labelColor=1A1A1A&logo=gmail&logoColor=white"/></a>
-</p>
+<!-- ████ ANIMATED BANNER ████ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,40:1a0000,70:2d0000,100:0D0D0D&height=200&section=header&text=FARHANG%20FATIH&fontSize=62&fontColor=FF0000&fontAlignY=45&desc=Cybersecurity%20Researcher%20%E2%80%A2%20Ethical%20Hacker%20%E2%80%A2%20Secure%20Software%20Architect&descColor=C9A84C&descSize=15&descAlignY=68&stroke=FF0000&strokeWidth=2&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrGuevar4&style=flat-square&color=FF0000&label=profile+views"/>
-  <img src="https://img.shields.io/badge/location-Kurdistan%2C%20Iraq-FF0000?style=flat-square&labelColor=1A1A1A"/>
-  <img src="https://img.shields.io/badge/focus-offensive%20security%20%26%20secure%20dev-FF0000?style=flat-square&labelColor=1A1A1A"/>
-</p>
+<!-- ████ TYPING SVG ████ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=800&color=C9A84C&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=36&lines=%5B+SYSTEM+ONLINE+%5D+Initializing+operator+profile...;Penetration+Tester+%7C+Malware+Analyst+%7C+AppSec+Engineer;Building+AxiomBreak+AI+%E2%80%94+340%2B+models+for+offensive+ops;Red+team+mindset.+Secure+code.+Linux+native.;Open+to+remote+security+consulting+%26+red+team+roles." alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<!-- ████ SOCIAL BADGES ████ -->
+<a href="http://about.mrguevara.workers.dev/">
+  <img src="https://img.shields.io/badge/Portfolio-C9A84C?style=for-the-badge&logo=firefoxbrowser&logoColor=0D0D0D"/>
+</a>
+<a href="https://linkedin.com/in/mrguevara">
+  <img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:farhangfatih211@gmail.com">
+  <img src="https://img.shields.io/badge/Email-C9A84C?style=for-the-badge&logo=gmail&logoColor=0D0D0D"/>
+</a>
+<a href="https://www.facebook.com/share/1BQ7VW5S99/">
+  <img src="https://img.shields.io/badge/Facebook-FF0000?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=MrGuevar4&style=flat-square&color=FF0000&label=visitors"/>
+<img src="https://img.shields.io/badge/Location-Kurdistan%2C%20Iraq-C9A84C?style=flat-square&labelColor=1A0000"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-FF0000?style=flat-square&labelColor=1A0000"/>
+
+</div>
 
 ---
 
-I break things to understand how they work — then I build them better.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-Security researcher since 2021. I operate across penetration testing, malware analysis, web application security, and cloud hardening. On the development side I build secure full-stack apps, custom tooling, and privacy-focused software. Linux is my native environment. I am based in Kurdistan, Iraq and work independently on research and client projects.
+## 〔 About Me 〕
 
-Currently building **AxiomBreak AI** — a Linux-native agent that routes across 340+ AI models specifically tuned for cybersecurity and offensive research workflows.
-
+```python
+operator = {
+    "name"       : "Farhang Fatih",
+    "alias"      : "MrGuevara",
+    "location"   : "Kurdistan, Iraq",
+    "role"       : "Cybersecurity Researcher & Secure Software Architect",
+    "since"      : 2021,
+    "languages"  : ["Kurdish (Native)", "English"],
+    "os"         : "Linux — always",
+    "specialty"  : [
+        "Penetration Testing",
+        "Malware Analysis & Reverse Engineering",
+        "Web Application Security (OWASP)",
+        "Cloud Security (AWS)",
+        "Secure Full-Stack Development",
+    ],
+    "building"   : "AxiomBreak AI — 340+ uncensored models for cybersecurity ops",
+    "open_to"    : "Remote security consulting · Red team · AppSec roles",
+}
 ```
-Open to   →  Security consulting · Red team engagements · Remote freelance · AppSec roles
-Stack     →  Python · C# · Flutter · SQL · Bash · Docker · AWS · Burp Suite · Nmap · Wireshark
-Research  →  Web/App/Network pentesting · Malware analysis · Cloud security · Phishing simulation
-```
 
----
+I break things to understand how they work — then I build them better and harder to break.
+Security researcher since 2021, operating across pentesting, malware analysis, AppSec, and cloud hardening, with full-stack engineering skills to build tools that are both powerful and secure. Everything runs on Linux.
 
-## Work
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-**Cybersecurity Researcher & Ethical Hacker** — Independent · 2021 to present
+## 〔 Tech Arsenal 〕
 
-- Conduct penetration testing across web, network, and application attack surfaces in controlled environments
-- Identify and document SQL injection flaws, authentication bypasses, and API vulnerabilities
-- Build custom malware research tools and isolated VM labs for behavioral analysis and crypter research
-- Run phishing simulations and MFA evaluation campaigns for security awareness training
-- Perform network assessments using Wireshark, Nmap, and custom tooling; document TTPs for defensive use
-- Develop and deploy secure applications with hardened authentication, encryption, and RBAC
+<div align="center">
 
----
+**Security Tooling**
 
-## Projects
+<img src="https://skillicons.dev/icons?i=linux,bash,python,cs,docker,aws,git&theme=dark&perline=7"/>
 
-**AxiomBreak AI**
-A Linux-native AI agent I built and maintain that aggregates 340+ AI models into a single uncensored workspace built specifically for cybersecurity work — pentesting research, ethical hacking, and malware analysis. Everything is routed through a custom orchestration layer.
-`Python` `Linux` `AI APIs` `Custom Orchestration`
+**Development**
 
-**Web Security Dashboard**
-Full-stack dashboard for real-time network activity monitoring, log capture, and device health tracking. Built with role-based access control, secure APIs, and hardened authentication from the ground up.
-`Python` `SQL` `REST APIs` `RBAC` `Auth`
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,html,css&theme=dark&perline=7"/>
 
-**Custom Browser Suite**
-Multiple privacy-hardened browsers I designed with built-in request filtering, isolation modes, and security testing capabilities. Each variant serves a different research workflow.
-`C#` `Python` `Custom Engine`
+**Data & Infra**
 
-**Malware Analysis Lab**
-Isolated multi-VM environment for live malware behavioral analysis. I use it to study detection-evasion tactics, build defensive crypters, and document attack patterns for research purposes.
-`Linux` `VM Isolation` `Python` `Crypter Research`
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,github,vscode,fastapi&theme=dark&perline=6"/>
 
-**Secure Mobile Apps**
-Several Flutter-based mobile applications built security-first — hardened login systems, encrypted data handling, and secure backend connectivity throughout.
-`Flutter` `Dart` `Encryption` `Secure APIs`
+</div>
 
----
+<div align="center">
 
-## Skills
+<img src="https://img.shields.io/badge/Burp%20Suite-FF0000?style=flat-square&labelColor=1A0000&logo=burpsuite&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/Nmap-C9A84C?style=flat-square&labelColor=1A0000"/>
+<img src="https://img.shields.io/badge/Wireshark-C9A84C?style=flat-square&labelColor=1A0000&logo=wireshark&logoColor=C9A84C"/>
+<img src="https://img.shields.io/badge/Metasploit-FF0000?style=flat-square&labelColor=1A0000"/>
+<img src="https://img.shields.io/badge/SQLMap-C9A84C?style=flat-square&labelColor=1A0000"/>
+<img src="https://img.shields.io/badge/OWASP%20ZAP-FF0000?style=flat-square&labelColor=1A0000"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-FF0000?style=flat-square&labelColor=1A0000&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-C9A84C?style=flat-square&labelColor=1A0000"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,flutter,dart,bash,docker,aws&theme=dark&perline=7"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,linux,git,github,vscode&theme=dark&perline=7"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&theme=dark&perline=7"/>
-</p>
+</div>
 
-| Area | Details |
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 〔 Projects 〕
+
+> All repos are real builds — no templates, no tutorials.
+
+<details open>
+<summary><b>🔴 AxiomBreak AI &nbsp;—&nbsp; Linux-native Cybersecurity AI Agent</b></summary>
+<br>
+
+An advanced Linux-native IDE agent I built from scratch that aggregates **340+ uncensored AI models** into a single workspace — built exclusively for cybersecurity professionals, pentesters, and ethical hackers.
+
+| | |
 |---|---|
-| Penetration Testing | Web · Network · Application · API · Account security |
-| Application Security | OWASP Top 10 · SQLi · Auth flaws · API hardening · Burp Suite |
-| Malware Analysis | VM isolation · Behavioral analysis · Crypter engineering · Evasion research |
-| Cloud Security | AWS architecture · Cloud hardening · Certified Cloud Security Practitioner |
-| Secure Development | Full-stack · Python · C# · Flutter · Secure coding patterns end-to-end |
-| Network Security | Wireshark · Nmap · Phishing simulation · MFA evaluation · Traffic analysis |
+| **Stack** | Python · Linux · Custom AI Orchestration Layer · API Integration |
+| **Purpose** | Single uncensored AI workspace for offensive security research |
+| **Scale** | 340+ models routed through a custom orchestration engine |
+| **Use case** | Pentesting research · Malware analysis · Exploit dev · Red team automation |
+| **Role** | Sole architect, developer, maintainer |
+
+</details>
 
 ---
 
-## Education & Certifications
+<details>
+<summary><b>🔴 Pentesting Platform &nbsp;—&nbsp; 44+ Scanner Bug Bounty Dashboard</b></summary>
+<br>
 
-Information Technology — Raparin Technical and Vocational Institute · 2024–2026
+I built this because I was running 15 different tools in separate terminals every bug bounty session. Subfinder, httpx, Burp, SQLi checks, header analysis — slow and repetitive. So I unified all of it.
 
-**Certifications**
+**44+ automated scanners** behind a React dashboard, powered by an async FastAPI backend. Drop a target URL, pick a scan profile, and it runs the entire playbook — then exports a clean HTML/JSON/CSV report.
 
-| Credential | Issuer |
+| | |
+|---|---|
+| **Stack** | Python 3.10+ · FastAPI · React 18 · Linux |
+| **Scanners** | Subdomain enum · Web vuln checks · SQLi · CORS · JS secret hunting · Cloud misconfiguration · Network fingerprinting |
+| **Output** | HTML / JSON / CSV reports |
+| **Platform** | Linux-native |
+| **License** | MIT — authorized security testing only |
+
+[→ View Repository](https://github.com/MrGuevar4/Pentesting_Platform)
+
+</details>
+
+---
+
+<details>
+<summary><b>🟡 SkySpy Kurdistan &nbsp;—&nbsp; Tactical Drone Detection & Radar System</b></summary>
+<br>
+
+An open-source intelligence platform that detects, identifies, and tracks UAVs in real-time using ESP32 hardware to passively scan Wi-Fi and RF frequencies. Built for Kurdistan's airspace security.
+
+| | |
+|---|---|
+| **Stack** | Python · ESP32 · RF/MAC Scanning · Telegram API |
+| **Detection** | Passive RF/Wi-Fi monitoring → cross-referenced against a drone signature database |
+| **Mapping** | Real-time path output to KML + CSV (Google Earth ready) |
+| **Alerts** | Instant Telegram bot notifications on new drone detection |
+| **Supports** | DJI, Parrot, and custom-built UAVs |
+
+[→ View Repository](https://github.com/MrGuevar4/SkySpy-Kurdistan)
+
+</details>
+
+---
+
+<details>
+<summary><b>🟡 ONE Cafe POS &nbsp;—&nbsp; Kurdish-first Point-of-Sale & Print Routing System</b></summary>
+<br>
+
+A full-stack POS system built for a real café inside Ranya Mall, Kurdistan. Entirely localized in Kurdish Sorani with native RTL layout and a companion print routing server that routes orders to the right kitchen printer automatically.
+
+| | |
+|---|---|
+| **Stack** | React 19 · TypeScript · Tailwind CSS v4 · Bun · Node.js |
+| **Language** | Kurdish Sorani — full RTL layout throughout |
+| **Currency** | Iraqi Dinar (دینار) with live totals |
+| **Print routing** | Kitchen printer (food) · Barista printer (drinks) · Shisha station |
+| **Deployment** | Local network — offline capable |
+
+[→ View Repository](https://github.com/MrGuevar4/One_Cafe_PS)
+
+</details>
+
+---
+
+<details>
+<summary><b>🟡 Ratil (رتیل) &nbsp;—&nbsp; Offline-first Holy Quran Companion App</b></summary>
+<br>
+
+A beautifully crafted, fully offline Quran app built with Flutter. All 114 surahs, 6,236 verses, Tajweed color-coding, 14+ reciters, and Kurdish Sorani translation — no internet required.
+
+| | |
+|---|---|
+| **Stack** | Flutter 3.x · Dart 3.x |
+| **Platform** | Android · iOS · Web · Desktop |
+| **Features** | Tajweed highlighting · 14+ reciters · Kurdish/English/Arabic translation · Prayer times · Qibla compass |
+| **Storage** | Fully offline — complete Quran + audio bundled |
+| **License** | MIT |
+
+[→ View Repository](https://github.com/MrGuevar4/Ratil)
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 〔 Experience 〕
+
+**Cybersecurity Researcher & Ethical Hacker** — Independent · 2021 → Present
+
+- Conduct penetration testing across web, network, and application layers in controlled environments; identify SQLi, auth bypasses, and API flaws
+- Build custom malware research tools and isolated multi-VM labs for behavioral analysis, crypter engineering, and detection-evasion research
+- Run phishing simulations and MFA evaluation campaigns for client security training programs
+- Perform network assessments using Wireshark, Nmap, and custom-built tooling; document TTPs to strengthen defensive posture
+- Develop and deploy secure full-stack applications with hardened auth, RBAC, encryption, and API protection from the ground up
+- Research cloud security on AWS; apply hardening patterns for storage, IAM, and network exposure
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 〔 Certifications 〕
+
+<div align="center">
+
+| Credential | Body |
 |---|---|
 | Certified Cloud Security Practitioner | AWS |
 | Certified AppSec Practitioner (CAP) | The SecOps Group |
 | Certified AppSec Pentesting Expert (CAPenX) | The SecOps Group |
 | Certified Network Security Practitioner (CNSP) | The SecOps Group |
 | Bug Bounty Advanced | — |
-| Burp Suite for Web App Hacking | PortSwigger |
+| Burp Suite — Web App Hacking | PortSwigger |
 | Google CyberSecurity Certificate | Google |
 | Google AI Certificate | Google |
 | Malware Analysis Fundamentals | — |
@@ -114,49 +236,77 @@ Information Technology — Raparin Technical and Vocational Institute · 2024–
 | Programming 100: Fundamentals | — |
 | Practical Help Desk | — |
 
----
+</div>
 
-## GitHub Stats
+**Education:** Information Technology (IT) · Raparin Technical and Vocational Institute · 2024 – 2026
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrGuevar4&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=FF0000&icon_color=FF3333&text_color=CCCCCC&border_color=333333&hide_border=false&count_private=true&rank_icon=github" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=MrGuevar4&theme=dark&background=0D0D0D&border=333333&stroke=FF0000&ring=FF0000&fire=FF3333&currStreakNum=CCCCCC&sideNums=CCCCCC&currStreakLabel=FF0000&sideLabels=888888&dates=666666" height="160"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrGuevar4&bg_color=0D0D0D&color=FF0000&line=CC0000&point=FF3333&area=true&area_color=440000&hide_border=false&border_color=333333" width="95%"/>
-</p>
+## 〔 GitHub Stats 〕
 
----
+<div align="center">
 
-## Currently
+<img src="https://github-readme-stats.vercel.app/api?username=MrGuevar4&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=FF0000&icon_color=C9A84C&text_color=CCCCCC&border_color=FF0000&count_private=true&rank_icon=github&hide_border=false" height="165"/>
+<img src="https://streak-stats.demolab.com?user=MrGuevar4&theme=dark&background=0D0D0D&border=FF0000&stroke=FF0000&ring=C9A84C&fire=FF0000&currStreakNum=CCCCCC&sideNums=CCCCCC&currStreakLabel=C9A84C&sideLabels=FF0000&dates=888888" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGuevar4&layout=compact&theme=dark&bg_color=0D0D0D&title_color=FF0000&text_color=CCCCCC&border_color=FF0000&hide_border=false&langs_count=8" height="150"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrGuevar4&bg_color=0D0D0D&color=C9A84C&line=FF0000&point=C9A84C&area=true&area_color=2d0000&hide_border=false&border_color=FF0000&title_color=FF0000" width="95%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=MrGuevar4&theme=radical&no-frame=false&margin-w=6&column=7&title_color=C9A84C"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 〔 Current Focus 〕
 
 ```yaml
-building:
-  AxiomBreak AI: active — 340+ model cybersecurity AI agent for Linux
-  Browser Suite: ongoing — privacy-hardened security research browsers
+# -- operator: MrGuevar4 // updated: 2026 --
 
-learning:
-  - Advanced AWS cloud security architecture
-  - AI-driven threat detection pipelines
-  - Offensive tooling in Go
+actively_building:
+  - AxiomBreak AI        # 340+ uncensored model cybersecurity agent — Linux native
+  - Security Browser Suite   # Privacy-hardened browsers with isolation + request filtering
 
-open to:
-  - Security consulting and advisory
-  - Remote penetration testing
-  - Red team collaboration
-  - Freelance secure development
+deep_learning:
+  - Advanced AWS cloud security architecture and IAM hardening
+  - AI-driven automated threat detection pipelines
+  - Offensive tooling development in Go
+
+exploring:
+  - Zero-day research methodologies
+  - Advanced malware evasion and live crypter engineering
+  - RF/hardware security — drone detection systems
+
+open_to:
+  - Remote security consulting and advisory engagements
+  - Penetration testing contracts
+  - Red team collaborations
+  - Freelance secure software development
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<p align="center">
-  <a href="http://about.mrguevara.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-FF0000?style=flat-square&labelColor=1A1A1A&logo=firefoxbrowser&logoColor=white"/></a>&nbsp;
-  <a href="https://linkedin.com/in/mrguevara"><img src="https://img.shields.io/badge/LinkedIn-FF0000?style=flat-square&labelColor=1A1A1A&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="mailto:farhangfatih211@gmail.com"><img src="https://img.shields.io/badge/Email-FF0000?style=flat-square&labelColor=1A1A1A&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://www.facebook.com/share/1BQ7VW5S99/"><img src="https://img.shields.io/badge/Facebook-FF0000?style=flat-square&labelColor=1A1A1A&logo=facebook&logoColor=white"/></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0D0D0D&height=60&section=footer" width="100%"/>
-</p>
+*"Security is not a product, but a process — and I build both."*
+
+<br/>
+
+<a href="http://about.mrguevara.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-C9A84C?style=for-the-badge&logo=firefoxbrowser&logoColor=0D0D0D"/></a>
+<a href="https://linkedin.com/in/mrguevara"><img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:farhangfatih211@gmail.com"><img src="https://img.shields.io/badge/Email-C9A84C?style=for-the-badge&logo=gmail&logoColor=0D0D0D"/></a>
+<a href="https://github.com/MrGuevar4"><img src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.facebook.com/share/1BQ7VW5S99/"><img src="https://img.shields.io/badge/Facebook-C9A84C?style=for-the-badge&logo=facebook&logoColor=0D0D0D"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0000,50:1a0000,100:0D0D0D&height=100&section=footer&fontColor=C9A84C&fontSize=14" width="100%"/>
+
+</div>
